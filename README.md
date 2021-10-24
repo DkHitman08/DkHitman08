@@ -41,7 +41,7 @@ Use any one of the above to deploy
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[DK_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
+    here➡️[DK_featuresList.md](https://github.com/PrajjwalDatir/DK/blob/main/Features.md)
 
 ## 💪 Contribution
 
@@ -58,7 +58,6 @@ Use any one of the above to deploy
 
 ### 🟢 WhatsApp Group
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlGNyRC9TMI07r1Fvt9fTU)
 
 ## 📄 License
 
