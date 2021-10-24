@@ -1,10 +1,10 @@
 
 <div align="center">
-<a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/HPqwr9Q/whatsapp-botto-void-init.png" alt="whatsapp-botto-void-init" border="0"></a>
+<a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/HPqwr9Q/whatsapp-hitman-DK-init.png" alt="whatsapp-hitman-Dk-init" border="0"></a>
 
-# **DK : Next Level Void WhatsApp DK**
+# **DK : Next Level  WhatsApp DK**
 
-[![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/DK)
+[![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/DK/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/DK)
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http)
 
@@ -15,11 +15,6 @@ Button : If you are deploying normally
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/PrajjwalDatir/Dk/blob/main)
 
-Button : If you are deploying from a fork
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-Use any one of the above to deploy
 
 </div><br/>
 <br/>
